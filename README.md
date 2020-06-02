@@ -10,6 +10,8 @@ Install node
  
  Then npm install
  
+ Then bower install
+ 
  Then grunt serve
  
  
