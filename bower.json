@@ -1,0 +1,10 @@
+{
+  "name": "crime-data-management",
+  "description": "crime data management",
+  "dependencies": {
+    "bootstrap": "^4.5.0",
+    "angular": "^1.4.0",
+    "jquery": "^3.5.1",
+    "angular-ui-router": "0.4.2"
+  }
+}
